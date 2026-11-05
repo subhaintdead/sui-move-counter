@@ -29,7 +29,7 @@ before that, get a sui wallet, preferably [slush](https://slush.app)
 
 after you set up slush, get your wallet address from the profile page. then in the profile page>advanced, switch the network to testnet
 
-get some testnet sui from [my sui faucet project](https://frontend-brown-phi-64.vercel.app) cuz you will need some sui to pay for gas
+get some testnet sui from [my sui faucet project](https://sui-faucet-seven.vercel.app/) cuz you will need some sui to pay for gas
 
 open https://frontend-brown-phi-64.vercel.app
 
@@ -74,7 +74,7 @@ sui client switch --env testnet
 sui client active-address
 ```
 
-copy the address, go to [here](https://frontend-brown-phi-64.vercel.app) and get a tiny amount of sui(usually enough for multiple transactions), if you want more, the https://faucet.sui.io faucet takes a while to give you the testnet sui
+copy the address, go to [here](https://sui-faucet-seven.vercel.app/) and get a tiny amount of sui(usually enough for multiple transactions), if you want more, the https://faucet.sui.io faucet takes a while to give you the testnet sui
 
 ### 3. build
 
